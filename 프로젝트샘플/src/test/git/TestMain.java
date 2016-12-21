@@ -8,7 +8,7 @@ public class TestMain {
 		int b;
 		int c;
 		int D;
-		int e!;
+		int e!; //느낌표는 사용할 수 없습니다
 	}
 
 }
