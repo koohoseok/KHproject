@@ -10,6 +10,7 @@ public class TestMain {
 		int D;
 		int e!; 
 		System.out.println("hi");
+		int aaaaaaaaaaaa;
 	}
 
 }
