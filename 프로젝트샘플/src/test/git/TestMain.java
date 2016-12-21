@@ -11,6 +11,7 @@ public class TestMain {
 		int e!; 
 		System.out.println("hi");
 		int aaaaaaaaaaaa;
+		double a = 1.0;
 	}
 
 }
