@@ -6,6 +6,7 @@ public class TestMain {
 		// 수정완료
 		int a;
 		int b;
+		int c;
 	}
 
 }
