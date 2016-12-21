@@ -8,6 +8,7 @@ public class TestMain {
 		int b;
 		int c;
 		int D;
+		int e!;
 	}
 
 }
