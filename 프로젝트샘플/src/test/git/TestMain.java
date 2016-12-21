@@ -7,6 +7,7 @@ public class TestMain {
 		int a;
 		int b;
 		int c;
+		int D;
 	}
 
 }
